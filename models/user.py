@@ -1,4 +1,4 @@
-from init import db, ma, 
+from init import db, ma 
 
 # model needs to be class, extends from the model class in SQLAlchemy
 class User(db.Model):
